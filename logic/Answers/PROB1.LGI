@@ -1,0 +1,34 @@
+41 1 1
+38 1
+11 -110 -126 -83 -224 0 1
+6 -302 -147 -253 -196 1 1
+27 -209 -132 -160 -181
+22 -347 -53 -34 -73 0 \NUL
+The new clock has a specific wave form to reset
+22 -347 -34 -95 -54 0 \NUL
+the counter at the precise time needed
+22 -347 -8 -33 -28 0 \NUL
+Alternatively you could of built a circuit to detect
+22 -347 11 -34 -9 0 \NUL
+when it was the correct time to reset the counter
+6 -302 -113 -253 -162 1 15
+22 -347 30 -166 10 0 \NUL
+based on it's current value.
+1 -109 -160 -163 -160
+1 -109 -154 -163 -154
+1 -109 -148 -163 -148
+1 -109 -142 -163 -142
+1 -208 -172 -256 -172
+1 -256 -138 -208 -142
+39 16777215
+40 1
+30
+System
+16
+700
+0
+0
+1
+2
+2
+34

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logicl32", "Mmlogic.vcproj", "{D8946785-D153-490A-8C41-40575A9290FD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {6457CB55-649B-4164-8A78-4DE1FF91BD9F}
+		SccProjectUniqueName1 = Mmlogic.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D8946785-D153-490A-8C41-40575A9290FD}.Debug.ActiveCfg = Debug|Win32
+		{D8946785-D153-490A-8C41-40575A9290FD}.Debug.Build.0 = Debug|Win32
+		{D8946785-D153-490A-8C41-40575A9290FD}.Release.ActiveCfg = Release|Win32
+		{D8946785-D153-490A-8C41-40575A9290FD}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

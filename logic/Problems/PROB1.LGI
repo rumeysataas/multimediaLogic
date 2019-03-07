@@ -1,0 +1,30 @@
+41 1 1
+38 1
+11 -110 -126 -83 -224 0 1
+6 -302 -147 -253 -196 1 1
+27 -209 -132 -160 -181
+22 -354 -100 26 -120 0 \NUL
+This a simple circuit that counts 0 to F and back to 0 again
+22 -354 -81 10 -101 0 \NUL
+The problems is to modify it such that the counter loops
+22 -354 -62 -118 -82 0 \NUL
+back when it reaches 7 instead of F.
+22 -353 -29 -121 -49 0 \NUL
+Use single step mode when testing
+1 -163 -160 -109 -160
+1 -163 -154 -109 -154
+1 -163 -148 -109 -148
+1 -163 -142 -109 -142
+1 -256 -172 -208 -172
+39 16777215
+40 1
+30
+System
+16
+700
+0
+0
+1
+2
+2
+34
